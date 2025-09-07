@@ -141,3 +141,6 @@ Thumbs.db
 # Project specific
 # Exclude generated PDFs from version control
 *.pdf
+
+# Credentials and sensitive data
+credentials.json
