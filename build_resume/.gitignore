@@ -139,5 +139,5 @@ dmypy.json
 Thumbs.db
 
 # Project specific
-# Uncomment the line below if you want to exclude generated PDFs from version control
-# *.pdf
+# Exclude generated PDFs from version control
+*.pdf
